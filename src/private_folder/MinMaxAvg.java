@@ -1,3 +1,5 @@
+package private_folder;
+
 public class MinMaxAvg {
     public static void main(String[] args) {
         int[] array = new int[20];

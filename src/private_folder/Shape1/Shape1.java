@@ -1,4 +1,4 @@
-package Shape1;
+package private_folder.Shape1;
 
 abstract class Shape {
     public abstract double getVolume();

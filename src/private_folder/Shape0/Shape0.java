@@ -1,4 +1,4 @@
-package Shape0;
+package private_folder.Shape0;
 
 import java.util.ArrayList;
 
