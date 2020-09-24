@@ -1,4 +1,4 @@
-package classwork_3;
+package homework_2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
