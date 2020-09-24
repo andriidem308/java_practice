@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class BiquadraticEquation {
-    private double x, a, b, c;
+    private double a, b, c;
 
     public BiquadraticEquation(double a, double b, double c){
         this.a = a;

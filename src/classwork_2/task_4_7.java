@@ -1,8 +1,10 @@
 package classwork_2;
 
+import java.util.Scanner;
+
 public class task_4_7 {
     public static double expTailor(double x){
-        double eps = 0.00001;
+        double eps = 10e-8;
         double result = 1, a = 1;
         int i = 1;
 
@@ -16,7 +18,8 @@ public class task_4_7 {
     }
 
     public static void main(String[] args) {
-        double x = 3.27;
+        Scanner scanner = new Scanner(System.in);
+        double x = scanner.nextDouble();
         System.out.println(expTailor(x));
         System.out.println(Math.exp(x));
     }

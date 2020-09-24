@@ -10,7 +10,7 @@ public class task_5_6 {
             if (a % 2 == 1) return false;
         }
 
-        return true
+        return true;
     }
 
     public static boolean evenEqOdd(int number) {
