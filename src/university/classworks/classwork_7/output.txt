@@ -1,0 +1,15 @@
+
+Test 1
+The longest word: Tuesday
+
+Test 2
+Words amount: 7
+
+Test 3
+Result: today is Tuesday fifth of August
+
+Test 4
+Result: today isTuesdayafifthofAugust
+
+Test 5
+today         is         Tuesday         a         fifth        of        August
