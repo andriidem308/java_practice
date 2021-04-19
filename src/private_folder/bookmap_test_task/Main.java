@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class Main {
-    public static String fileInName = "./src/bookmap_test_task/input.txt";
+    public static String fileInName = "./src/bookmap_test_task/task_3_in.txt";
     public static String fileOutName = "./src/bookmap_test_task/output.txt";
     public static FileWriter fileWriter;
 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package FootballCompetition;
+=======
+package university.FootballCompetition;
+>>>>>>> d04f2c57e2ac39b66203badaf35a0a09390dc518
 
 public class Team {
     public int id;

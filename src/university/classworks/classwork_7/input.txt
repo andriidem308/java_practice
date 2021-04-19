@@ -1,1 +1,5 @@
+<<<<<<< HEAD
   today  is   Tuesday a   fifth of  August
+=======
+  today  is   Tuesday a   fifth of  August
+>>>>>>> d04f2c57e2ac39b66203badaf35a0a09390dc518

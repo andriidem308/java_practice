@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class Main {
-    public static String fileInName = "./src/topic_5_OOP/task_12/input.txt";
+    public static String fileInName = "./src/topic_5_OOP/task_12/task_3_in.txt";
 
     public static void ListOfTariffs(ArrayList<Tariff> tariffsArray){
         for (Tariff t: tariffsArray) System.out.println(t);

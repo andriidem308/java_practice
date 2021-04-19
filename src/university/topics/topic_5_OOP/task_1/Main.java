@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class Main {
-    static String fileInName = "./src/topic_5_OOP/task_1/input.txt";
+    static String fileInName = "./src/topic_5_OOP/task_1/task_3_in.txt";
 
     public static void printBouquetPrice(ArrayList<Flower> bouquet){
         System.out.println("Bouquet price: " + Utils.calcBouquetPrice(bouquet));

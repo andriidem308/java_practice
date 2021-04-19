@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ========= GAMEROOM =========
 Category: Small
 Toys amount: 6
@@ -145,3 +146,152 @@ Price: 15
 Name: Diana
 Size: Big
 Price: 14
+=======
+========= GAMEROOM =========
+Category: Small
+Toys amount: 6
+_____ Toys: _____
+* Car
+Brand: Audi
+Model: A8
+Color: Black
+Size: Small
+Price: 11
+
+* Car
+Brand: BMW
+Model: M6
+Color: Blue
+Size: Small
+Price: 16
+
+* Doll
+Name: Ann
+Size: Small
+Price: 15
+
+* Ball
+Color: Blue
+Size: Small
+Price: 11
+
+* Ball
+Color: Green
+Size: Small
+Price: 9
+
+* Cubes
+Type: Letters
+Size: Small
+Price: 7
+
+
+========= GAMEROOM =========
+Category: Middle
+Toys amount: 7
+_____ Toys: _____
+* Car
+Brand: Toyota
+Model: Camry
+Color: Black
+Size: Middle
+Price: 15
+
+* Car
+Brand: Mercedes
+Model: GL350
+Color: Gray
+Size: Middle
+Price: 21
+
+* Doll
+Name: Barbie
+Size: Middle
+Price: 11
+
+* Doll
+Name: Elsa
+Size: Middle
+Price: 12
+
+* Ball
+Color: Red
+Size: Middle
+Price: 13
+
+* Cubes
+Type: Letters
+Size: Middle
+Price: 6
+
+* Cubes
+Type: Basic
+Size: Middle
+Price: 10
+
+
+========= GAMEROOM =========
+Category: Big
+Toys amount: 5
+_____ Toys: _____
+* Car
+Brand: BMW
+Model: X5
+Color: Red
+Size: Big
+Price: 19
+
+* Doll
+Name: Barbie
+Size: Big
+Price: 15
+
+* Doll
+Name: Diana
+Size: Big
+Price: 14
+
+* Ball
+Color: Yellow
+Size: Big
+Price: 16
+
+* Ball
+Color: Blue
+Size: Big
+Price: 19
+
+
+
+	bigGameRoom sorted:
+========= GAMEROOM =========
+Category: Big
+Toys amount: 5
+_____ Toys: _____
+* Car
+Brand: BMW
+Model: X5
+Color: Red
+Size: Big
+Price: 19
+
+* Ball
+Color: Blue
+Size: Big
+Price: 19
+
+* Ball
+Color: Yellow
+Size: Big
+Price: 16
+
+* Doll
+Name: Barbie
+Size: Big
+Price: 15
+
+* Doll
+Name: Diana
+Size: Big
+Price: 14
+>>>>>>> d04f2c57e2ac39b66203badaf35a0a09390dc518
